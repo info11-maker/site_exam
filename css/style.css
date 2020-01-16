@@ -244,3 +244,9 @@ img{
   padding: 0px;
   margin-left: 120px;
 }
+@media screen and (max-width: 600px) {
+  body {
+    background-color: lightgrey;
+  }
+}
+}
